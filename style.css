@@ -5,7 +5,7 @@
     box-sizing: border-box;
 }
 body{
-    background:linear-gradient(135deg, #536976 10%, #292E49 100%);;
+    background:#222;
 }
 .card{
     width: 90%;
@@ -80,4 +80,7 @@ body{
 .humidity, .wind{
     font-size: 28px;
     margin-top: -6px;
+}
+.weather{
+    display: none;
 }
